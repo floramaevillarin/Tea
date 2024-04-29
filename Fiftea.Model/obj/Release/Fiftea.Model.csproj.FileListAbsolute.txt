@@ -1,0 +1,5 @@
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\bin\Release\Fiftea.Model.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\bin\Release\Fiftea.Model.pdb
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\obj\Release\Fiftea.Model.csprojResolveAssemblyReference.cache
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\obj\Release\Fiftea.Model.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\obj\Release\Fiftea.Model.pdb

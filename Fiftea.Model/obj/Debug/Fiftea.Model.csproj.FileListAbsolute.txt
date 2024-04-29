@@ -1,0 +1,10 @@
+C:\Users\villaflo\source\repos\Fiftea\Fiftea.Model\bin\Debug\Fiftea.Model.dll
+C:\Users\villaflo\source\repos\Fiftea\Fiftea.Model\bin\Debug\Fiftea.Model.pdb
+C:\Users\villaflo\source\repos\Fiftea\Fiftea.Model\obj\Debug\Fiftea.Model.csprojAssemblyReference.cache
+C:\Users\villaflo\source\repos\Fiftea\Fiftea.Model\obj\Debug\Fiftea.Model.csproj.CoreCompileInputs.cache
+C:\Users\villaflo\source\repos\Fiftea\Fiftea.Model\obj\Debug\Fiftea.Model.dll
+C:\Users\villaflo\source\repos\Fiftea\Fiftea.Model\obj\Debug\Fiftea.Model.pdb
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\bin\Debug\Fiftea.Model.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\bin\Debug\Fiftea.Model.pdb
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\obj\Debug\Fiftea.Model.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.Model\obj\Debug\Fiftea.Model.pdb

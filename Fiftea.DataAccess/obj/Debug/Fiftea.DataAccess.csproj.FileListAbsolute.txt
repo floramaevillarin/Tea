@@ -1,0 +1,10 @@
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\bin\Debug\Fiftea.DataAccess.dll.config
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\bin\Debug\Fiftea.DataAccess.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\bin\Debug\Fiftea.DataAccess.pdb
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\bin\Debug\EntityFramework.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\bin\Debug\Fiftea.Model.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\bin\Debug\Fiftea.Model.pdb
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\obj\Debug\Fiftea.DataAccess.csprojResolveAssemblyReference.cache
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\obj\Debug\Fiftea.DataAccess.dll
+C:\_Projects\Net\Tea\Fiftea\Fiftea.DataAccess\obj\Debug\Fiftea.DataAccess.pdb
